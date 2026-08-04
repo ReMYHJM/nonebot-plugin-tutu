@@ -1,4 +1,4 @@
-# nonebot-plugin-tutu
+# nonebot_plugin_tutu
 
 从 yppp.net 获取随机二次元图片，支持多张合并发送。
 
@@ -13,7 +13,7 @@
 ## 安装
 
 ```bash
-pip install nonebot-plugin-tutu
+pip install nonebot_plugin_tutu
 ```
 
 ## 配置
