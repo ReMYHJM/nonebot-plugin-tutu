@@ -49,13 +49,5 @@ tutu_default_count=1
 
 - 横图接口：`pc.php?return=all`
 - 竖图接口：`pe.php?return=all`
-
-## 作者
-
-ReM_YHJM
-
-## 许可证
-
-MIT
 tutu_api_timeout=10
 tutu_headers_json={"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
