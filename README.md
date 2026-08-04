@@ -28,7 +28,7 @@ pip install nonebot-plugin-tutu
 | `tutu_api_timeout` | int | 10 | 请求超时（秒） |
 | `tutu_headers_json` | str | `{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", "Accept": "application/json"}` | 自定义请求头（JSON 字符串） |
 
-配置示例（`.env`）：
+配置示例（`config`）：
 
 ```dotenv
 tutu_max_count=15
