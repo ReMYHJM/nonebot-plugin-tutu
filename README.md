@@ -14,8 +14,8 @@
 
 ```bash
 pip install nonebot-plugin-tutu
+```
 
-```md
 ## 配置
 
 在 NoneBot2 的 `.env` 或 `.env.prod` 中添加以下配置项：
@@ -33,9 +33,8 @@ pip install nonebot-plugin-tutu
 ```dotenv
 tutu_max_count=15
 tutu_default_count=1
+```
 
-
-```md
 ## 使用
 
 命令格式：
